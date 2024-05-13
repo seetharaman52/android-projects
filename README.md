@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row;">
-    <div>
+    <div style="margin-right: 20px;">
         <h3>Calculator</h3>
         <img src="https://github.com/seetharaman52/android-projects/raw/main/calculator/Screenshot_Calci.png" alt="Calculator" width="200">
     </div>
