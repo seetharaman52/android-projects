@@ -1,5 +1,5 @@
 ### Calculator
-![Calculator](https://github.com/seetharaman52/android-projects/blob/main/calculator/Screenshot_Calci.png)
+<img src="https://github.com/seetharaman52/android-projects/raw/main/calculator/Screenshot_Calci.png" alt="Calculator" width="400">
 
 ### Simple Login Page
-![Login Page](https://github.com/seetharaman52/android-projects/blob/main/simple_login_page/Screenshot_Login.png)
+<img src="https://github.com/seetharaman52/android-projects/raw/main/simple_login_page/Screenshot_Login.png" alt="Login Page" width="400">
